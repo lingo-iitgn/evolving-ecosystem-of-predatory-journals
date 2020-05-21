@@ -15,3 +15,14 @@ Digital advancement in scholarly repositories has led to the emergence of a larg
 ## Paper: [Link](https://link.springer.com/chapter/10.1007/978-3-030-34058-2_9)
 
 ## Slides: [Link](https://drive.google.com/file/d/11j6HBF3fDaM0oUAR4_TuC0wVRVSkuBwf/view?fbclid=IwAR2FtXBu1tNnxOEogM9qERpt4-b_PHwu3mIlSniFAlHOilFwbPTzefjFyt0)
+
+-------
+## Cite:
+```@inproceedings{jain2019evolving,
+  title={The evolving ecosystem of predatory journals: a case study in Indian perspective},
+  author={Jain, Naman and Singh, Mayank},
+  booktitle={International Conference on Asian Digital Libraries},
+  pages={78--92},
+  year={2019},
+  organization={Springer}
+}```

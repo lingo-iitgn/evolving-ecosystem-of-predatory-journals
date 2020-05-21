@@ -1,5 +1,7 @@
 # The Evolving Ecosystem of Predatory Journals: A Case Study in Indian Perspective
 
+### Authors - [Naman Jain](https://namanjn98.github.io/) and [Mayank Singh](https://mayank4490.github.io/)
+
 This repository hosts the dataset used in "The Evolving Ecosystem of Predatory Journals: A Case Study in Indian Perspective" accepted at 21st International Conference on Asian Digital Libraries 2019 as a full paper.
 
 The dataset consists of 

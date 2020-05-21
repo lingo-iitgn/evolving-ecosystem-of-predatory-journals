@@ -7,7 +7,7 @@ The dataset consists of
 - It contains information about Editors, Author, Paper and Journals. 
 
 ---------
-## Abstract
+### Abstract
 Digital advancement in scholarly repositories has led to the emergence of a large number of open access predatory publishers that charge high article processing fees from authors but fail to provide necessary editorial and publishing services. Identifying and blacklisting such publishers has remained a research challenge due to the highly volatile scholarly publishing ecosystem. This paper presents a data-driven approach to study how potential predatory publishers are evolving and bypassing several regularity constraints. We empirically show the close resemblance of predatory publishers against reputed publishing groups. In addition to verifying standard constraints, we also propose distinctive signals gathered from network-centric properties to understand this evolving ecosystem better. To facilitate reproducible research, we shall make all the codes and the processed dataset available in the public domain.
 
 

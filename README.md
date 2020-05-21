@@ -2,9 +2,9 @@
 
 This repository hosts the dataset used in "The Evolving Ecosystem of Predatory Journals: A Case Study in Indian Perspective" accepted at ICADL 2019 as a full paper.
 
-The dataset consists of metadata of two major open access publishers: OMICS and BioMedical Central (BMC).
-
-The dataset contains information about Editors, Author, Paper and Journals. 
+The dataset consists of 
+- The metadata of two major open access publishers: OMICS and BioMedical Central (BMC).
+- It contains information about Editors, Author, Paper and Journals. 
 
 ---------
 ## Abstract: 

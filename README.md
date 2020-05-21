@@ -18,6 +18,7 @@ Digital advancement in scholarly repositories has led to the emergence of a larg
 
 -------
 ## Cite:
+
 ```@inproceedings{jain2019evolving,
   title={The evolving ecosystem of predatory journals: a case study in Indian perspective},
   author={Jain, Naman and Singh, Mayank},
@@ -25,4 +26,4 @@ Digital advancement in scholarly repositories has led to the emergence of a larg
   pages={78--92},
   year={2019},
   organization={Springer}
-}```
+}
